@@ -1,0 +1,18 @@
+* Pitfalls of Structure
+
+Structures are thought of as great things to create artificial boundaries to make the containment terrain tractable for various operations.
+While structures are advocated as a means for probing a previously unknown territory, it is not without it’s pitfalls.
+
+** Big picture ideas
+
+*** Hard to rearrange once you build up
+Modularity may help here, but only to a point
+
+*** Opacity
+Creating a structure means that you won’t be able to see through to the other side once a barrier (which is not a barrier in the absolute context but a means towards building up the bigger structure), is raised.
+
+** Finer details from technologies
+
+*** HTML
+
+**** Having a retained DOM layoutting system means that layout reflows of properties that change this layout are hard hitting on the graphics card processing.
