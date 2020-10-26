@@ -20,3 +20,5 @@ Creating a structure means that you won’t be able to see through to the other 
 *** HTML + CSS
 Parent elements doesn’t know when their children wrap. [[https://stackoverflow.com/questions/43662552/getting-columns-to-wrap-in-css-grid][Found when attempting grid columns to wrap in CSS]]
 
+*** Can’t wrap grid with different lengths
+https://stackoverflow.com/questions/47082096/how-to-get-grid-items-of-different-lengths-to-wrap
